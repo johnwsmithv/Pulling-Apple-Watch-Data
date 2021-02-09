@@ -55,6 +55,12 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>privacy</key>
+	<string></string>
+	<key>NSHealthShareUsageDescription</key>
+	<string>NSHealthUpdateUsageDescription</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>NSHealthUpdateUsageDescription</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
