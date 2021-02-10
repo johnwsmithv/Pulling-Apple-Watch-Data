@@ -5,6 +5,13 @@
 //  Created by John Smith V on 2/6/21.
 //  Team members: Brain Siroka, Daniel Cruz, Nick Doolittle, Mutian Fan
 
+/*
+ Notes from meeting:
+ May be able to use third-party watches through the Apple Health App
+ This means we may not need to write 20 different plugins (exaggerated)
+ We currently are able to pull heart rate data and any other data we need
+ */
+
 import UIKit
 import HealthKitUI
 import HealthKit
