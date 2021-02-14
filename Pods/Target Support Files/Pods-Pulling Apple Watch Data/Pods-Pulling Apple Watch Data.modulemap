@@ -1,0 +1,6 @@
+framework module Pods_Pulling_Apple_Watch_Data {
+  umbrella header "Pods-Pulling Apple Watch Data-umbrella.h"
+
+  export *
+  module * { export * }
+}
